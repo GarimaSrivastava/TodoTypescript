@@ -1,0 +1,16 @@
+.heading{
+    height: 100px;
+    width: 100%;
+    background-color: #b3b3cc;
+}
+.label-default{
+    text-align: center;
+    margin-left: 50%;
+    margin-bottom: 20%;
+}
+.btn-primary{
+    float: right;
+}
+.btn-danger{
+    margin-left: 100px;
+}
